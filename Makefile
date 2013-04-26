@@ -1,7 +1,9 @@
 # Makefile for building Arduino sketches with Arduino 1.0.
 #
-# Makefile-arduino v0.8 by Akkana Peck <akkana@shallowsky.com>
-# Adapted from a long-ago Arduino 0011 Makefile by mellis, eighthave, oli.keller
+# Adapted by Michael Booth <mike@michaelfbooth.com>
+# based on Makefile-arduino v0.8 by Akkana Peck <akkana@shallowsky.com>
+# which in turn was adapted from a long-ago Arduino 0011 Makefile
+# by mellis, eighthave, oli.keller
 # using contributions from Santiago Reig, Pascal de Bruijn,
 # and Bernard Pratz <guyzmo@hackable-devices.org>
 #
