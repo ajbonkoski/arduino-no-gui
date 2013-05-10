@@ -1,8 +1,11 @@
 #Arduino without GUI
 
-This project basically exists to showcase the Makefile.
+This project basically exists to showcase the Makefile. There are a few setup steps:
 
-To build the enclosed LED-blinking demo:
+* You need to install the Arduino build tools and adjust the Makefile to point to them on your system.
+* You need to ensure that the Makefile specifies the correct Arduino model.
+
+Then, to build the enclosed LED-blinking demo:
 
     make
     
